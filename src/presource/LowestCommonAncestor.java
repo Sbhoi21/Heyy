@@ -44,8 +44,6 @@ public class LowestCommonAncestor {
 		System.out.println(root.val);
 		return root;
 	}
-
-
 	
 	/*
 	funtion (root, p , q) {
